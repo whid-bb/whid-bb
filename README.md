@@ -5,6 +5,6 @@
 In love with:
 
 - JavaScript
-- PHP/MYSQL/APACHE
+- PHP/MySQL/APACHE
 - Linux
 - 3D Graphics/Blender/Three.js
