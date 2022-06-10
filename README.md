@@ -17,6 +17,8 @@ Python
 - <a href="https://www.blender.org/" title="Blender"><img src="https://github.com/get-icon/geticon/raw/master/icons/blender.svg" alt="Blender" width="21px" height="17px"></a>
 3D Graphics/Blender/Three.js
 
+Fell free to [Contact me](mailto:2algknuji@relay.firefox.com)
+
 <hr>
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=whid-bb&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
